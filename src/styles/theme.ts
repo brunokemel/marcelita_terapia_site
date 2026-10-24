@@ -1,7 +1,7 @@
 export const theme = {
   colors: {
-    pink: 'rgb(255, 193, 218)',
-    pinkSoft: '#ffe4ee',
+    pink: 'rgb(250, 128, 114)',
+    pinkSoft: '#ffe0db',
     cream: 'rgb(248, 248, 225)',
     green: '#557a67',
     greenDark: '#29483b',
